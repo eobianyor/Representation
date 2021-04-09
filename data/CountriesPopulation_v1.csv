@@ -1,0 +1,239 @@
+Country,Population,Alpha-2 code,Alpha-3 code,
+ Afghanistan,"32,890,171",AF,AFG,Yes
+ Åland Islands (Finland),"30,152",AX,ALA,No
+ Albania,"2,845,955",AL,ALB,Yes
+ Algeria,"44,700,000",DZ,DZA,Yes
+ American Samoa (US),"56,951",AS,ASM,No
+ Andorra,"78,015",AD,AND,Yes
+ Angola,"32,097,671",AO,AGO,Yes
+ Anguilla (UK),"15,000",AI,AIA,No
+ Antigua and Barbuda,"99,337",AG,ATG,Yes
+ Argentina,"45,808,747",AR,ARG,Yes
+ Armenia,"2,967,900",AM,ARM,Yes
+ Aruba (Netherlands),"111,904",AW,ABW,No
+ Australia,"25,776,464",AU,AUS,Yes
+ Austria,"8,933,346",AT,AUT,Yes
+ Azerbaijan,"10,122,148",AZ,AZE,Yes
+ Bahamas,"393,450",BS,BHS,Yes
+ Bahrain,"1,501,635",BH,BHR,Yes
+ Bangladesh,"170,453,540",BD,BGD,Yes
+ Barbados,"288,000",BB,BRB,Yes
+ Belarus,"9,408,350",BY,BLR,Yes
+ Belgium,"11,556,297",BE,BEL,Yes
+ Belize,"419,199",BZ,BLZ,Yes
+ Benin,"12,506,347",BJ,BEN,Yes
+ Bermuda (UK),"64,055",BM,BMU,No
+ Bhutan,"756,129",BT,BTN,Yes
+ Bolivia,"11,797,257",BO,BOL,Yes
+ Bosnia and Herzegovina,"3,332,593",BA,BIH,Yes
+ Botswana,"2,410,338",BW,BWA,Yes
+ Brazil,"212,969,523",BR,BRA,Yes
+ British Virgin Islands (UK),"30,000",VG,VGB,No
+ Brunei,"459,500",BN,BRN,Yes
+ Bulgaria,"6,951,482",BG,BGR,Yes
+ Burkina Faso,"21,510,181",BF,BFA,Yes
+ Burundi,"12,574,571",BI,BDI,Yes
+ Cambodia,"15,552,211",KH,KHM,Yes
+ Cameroon,"24,348,251",CM,CMR,Yes
+ Canada,"38,411,882",CA,CAN,Yes
+ Cape Verde,"563,198",CV,CPV,Yes
+ Cayman Islands (UK),"65,786",KY,CYM,No
+ Central African Republic,"5,633,412",CF,CAF,Yes
+ Chad,"16,818,391",TD,TCD,Yes
+ Chile,"19,678,363",CL,CHL,Yes
+ China,"1,407,402,560",CN,CHN,Yes
+ Christmas Island (Australia),"1,966",CX,CXR,No
+ Cocos (Keeling) Islands (Australia),573,CC,CCK,No
+ Colombia,"51,049,498",CO,COL,Yes
+ Comoros,"758,316",KM,COM,Yes
+ Congo,"5,657,000",CG,COG,Yes
+ Cook Islands (NZ),"15,342",CK,COK,No
+ Costa Rica,"5,163,038",CR,CRI,Yes
+ Croatia,"4,047,200",HR,HRV,Yes
+ Cuba,"11,193,470",CU,CUB,Yes
+ Curaçao (Netherlands),"156,223",CW,CUW,No
+ Cyprus,"888,005",CY,CYP,Yes
+ Czech Republic,"10,701,777",CZ,CZE,Yes
+ Denmark,"5,840,045",DK,DNK,Yes
+ Djibouti,"976,107",DJ,DJI,Yes
+ Dominica,"72,000",DM,DMA,Yes
+ Dominican Republic,"10,535,535",DO,DOM,Yes
+ DR Congo,"92,378,000",CD,COD,Yes
+ East Timor,"1,317,780",TL,TLD,Yes
+ Ecuador,"17,706,844",EC,ECU,Yes
+ Egypt,"101,714,695",EG,EGY,Yes
+ El Salvador,"6,825,935",SV,SLV,Yes
+ Equatorial Guinea,"1,454,789",GQ,GNQ,Yes
+ Eritrea,"3,601,000",ER,ERI,Yes
+ Estonia,"1,329,460",EE,EST,Yes
+ Eswatini,"1,093,238",SZ,SWZ,Yes
+ Ethiopia,"117,876,000",ET,ETH,Yes
+ Falkland Islands (UK),"3,398",FK,FLK,No
+ Faroe Islands (Denmark),"53,022",FO,FRO,No
+ Fiji,"898,402",FJ,FJI,Yes
+ Finland,"5,508,198",FI,FIN,Yes
+ France,"67,399,000",FR,FRA,Yes
+ French Polynesia (France),"279,890",PF,PYF,No
+ Gabon,"2,233,272",GA,GAB,Yes
+ Gambia,"2,335,504",GM,GMB,Yes
+ Georgia,"3,716,858",GE,GEO,Yes
+ Germany,"83,190,556",DE,DEU,Yes
+ Ghana,"30,955,202",GH,GHA,Yes
+ Gibraltar (UK),"34,003",GI,GIB,No
+ Greece,"10,718,565",GR,GRC,Yes
+ Greenland (Denmark),"56,421",GL,GRL,No
+ Grenada,"113,000",GD,GRD,Yes
+ Guam (US),"178,306",GU,GUM,No
+ Guatemala,"17,109,746",GT,GTM,Yes
+ Guernsey (UK),"63,155",GG,GGY,No
+ Guinea,"12,907,395",GN,GIN,Yes
+ Guinea-Bissau,"1,646,077",GW,GNB,Yes
+ Guyana,"743,699",GY,GUY,Yes
+ Haiti,"11,743,017",HT,HTI,Yes
+ Honduras,"9,450,711",HN,HND,Yes
+ Hong Kong,"7,474,200",HK,HKG,No
+ Hungary,"9,730,000",HU,HUN,Yes
+ Iceland,"368,590",IS,ISL,Yes
+ India[c],"1,375,432,838",IN,IND,Yes
+ Indonesia,"271,350,000",ID,IDN,Yes
+ Iran,"84,340,498",IR,IRN,Yes
+ Iraq,"41,190,700",IQ,IRQ,Yes
+ Ireland,"4,977,400",IE,IRL,Yes
+ Isle of Man (UK),"83,314",IM,IMN,No
+ Israel,"9,334,340",IL,ISR,Yes
+ Italy,"59,257,566",IT,ITA,Yes
+ Ivory Coast,"27,087,732",CI,CIV,Yes
+ Jamaica,"2,734,093",JM,JAM,Yes
+ Japan,"125,480,000",JP,JPN,Yes
+ Jersey (UK),"107,800",JE,JEY,No
+ Jordan,"10,917,276",JO,JOR,Yes
+ Kazakhstan,"18,902,392",KZ,KAZ,Yes
+ Kenya,"47,564,296",KE,KEN,Yes
+ Kiribati,"120,740",KI,KIR,Yes
+ Kuwait,"4,464,521",KW,KWT,Yes
+ Kyrgyzstan,"6,645,500",KG,KGZ,Yes
+ Laos,"7,337,783",LA,LAO,Yes
+ Latvia,"1,891,300",LV,LVA,Yes
+ Lebanon,"6,769,000",LB,LBN,Yes
+ Lesotho,"2,007,201",LS,LSO,Yes
+ Liberia,"4,661,010",LR,LBR,Yes
+ Libya,"6,959,000",LY,LBY,Yes
+ Liechtenstein,"39,062",LI,LIE,Yes
+ Lithuania,"2,790,044",LT,LTU,Yes
+ Luxembourg,"634,730",LU,LUX,Yes
+ Macau,"683,100",MO,MAC,No
+ Madagascar,"26,923,353",MG,MDG,Yes
+ Malawi,"18,898,441",MW,MWI,Yes
+ Malaysia,"32,760,900",MY,MYS,Yes
+ Maldives,"383,135",MV,MDV,Yes
+ Mali,"20,856,000",ML,MLI,Yes
+ Malta,"514,564",MT,MLT,Yes
+ Marshall Islands,"54,516",MH,MHL,Yes
+ Mauritania,"4,271,197",MR,MRT,Yes
+ Mauritius,"1,266,030",MU,MUS,Yes
+ Mexico,"126,014,024",MX,MEX,Yes
+ Moldova,"2,640,438",MD,MDA,Yes
+ Monaco,"38,100",MC,MCO,Yes
+ Mongolia,"3,371,234",MN,MNG,Yes
+ Montenegro,"621,873",ME,MNE,Yes
+ Montserrat (UK),"5,000",MS,MSR,No
+ Morocco,"36,213,494",MA,MAR,Yes
+ Mozambique,"30,832,244",MZ,MOZ,Yes
+ Myanmar,"55,294,979",MM,MMR,Yes
+ Namibia,"2,550,226",NA,NAM,Yes
+ Nauru,"11,832",NR,NRU,Yes
+ Nepal,"30,378,055",NP,NPL,Yes
+ Netherlands[m],"17,580,531",NL,NLD,Yes
+ New Caledonia (France),"273,674",NC,NCL,No
+ New Zealand,"5,123,792",NZ,NZL,Yes
+ Nicaragua,"6,527,691",NI,NIC,Yes
+ Niger,"24,112,753",NE,NER,Yes
+ Nigeria,"211,401,000",NG,NGA,Yes
+ Niue (NZ),"1,549",NU,NIU,No
+ Norfolk Island (Australia),"1,734",NF,NFK,No
+ North Korea,"25,660,000",KP,PRK,Yes
+ North Macedonia,"2,076,255",MK,MKD,Yes
+ Northern Mariana Islands (US),"56,801",MP,MNP,No
+ Norway,"5,391,369",NO,NOR,Yes
+ Oman,"4,496,419",OM,OMN,Yes
+ Pakistan[e],"225,200,000",PK,PAK,Yes
+ Palau,"17,957",PW,PLW,Yes
+ Palestine,"5,227,193",PS,PSE,No
+ Panama,"4,278,500",PA,PAN,Yes
+ Papua New Guinea,"9,122,994",PG,PNG,Yes
+ Paraguay,"7,353,038",PY,PRY,Yes
+ Peru,"33,035,304",PE,PER,Yes
+ Philippines,"110,058,083",PH,PHL,Yes
+ Pitcairn Islands (UK),50,PN,PCN,No
+ Poland,"38,244,000",PL,POL,Yes
+ Portugal,"10,295,909",PT,PRT,Yes
+ Puerto Rico (US),"3,193,694",PR,PRI,No
+ Qatar,"2,717,360",QA,QAT,Yes
+ Romania,"19,317,984",RO,ROU,Yes
+ Russia,"146,238,185",RU,RUS,Yes
+ Rwanda,"12,955,768",RW,RWA,Yes
+ Saint Barthélemy (France),"10,124",BL,BLM,No
+" Saint Helena, Ascension","5,633",SH,SHN,No
+ Saint Kitts and Nevis,"54,000",KN,KNA,Yes
+ Saint Lucia,"178,696",LC,LCA,Yes
+ Saint Martin (France),"34,065",MF,MAF,No
+ Saint Pierre and Miquelon (France),"5,985",PM,SPM,No
+ Saint Vincent and the Grenadines,"110,696",VC,VCT,Yes
+ Samoa,"199,853",WS,WSM,Yes
+ San Marino,"33,600",SM,SMR,Yes
+ São Tomé and Príncipe,"214,610",ST,STP,Yes
+ Saudi Arabia,"34,218,169",SA,SAU,Yes
+ Senegal,"17,223,497",SN,SEN,Yes
+ Serbia[o],"6,926,705",RS,SRB,Yes
+ Seychelles,"98,963",SC,SYC,Yes
+ Sierra Leone,"8,297,882",SL,SLE,Yes
+ Singapore,"5,685,807",SG,SGP,Yes
+ Sint Maarten (Netherlands),"40,614",SX,SXM,No
+ Slovakia,"5,459,781",SK,SVK,Yes
+ Slovenia,"2,111,461",SI,SVN,Yes
+ Solomon Islands,"728,041",SB,SLB,Yes
+ Somalia,"16,360,000",SO,SOM,Yes
+ South Africa,"59,622,350",ZA,ZAF,Yes
+ South Korea,"51,705,905",KR,KOR,Yes
+ South Ossetia,"53,532",GS,SGS,No
+ South Sudan,"13,249,924",SS,SSD,Yes
+ Spain,"47,351,567",ES,ESP,Yes
+ Sri Lanka,"21,919,000",LK,LKA,Yes
+ Sudan,"43,368,090",SD,SDN,Yes
+ Suriname,"590,100",SR,SUR,Yes
+ Sweden,"10,380,491",SE,SWE,Yes
+ Switzerland,"8,655,100",CH,CHE,Yes
+ Syria,"18,276,000",SY,SYR,Yes
+ Taiwan[l],"23,539,588",TW,TWN,No
+ Tajikistan,"9,313,800",TJ,TJK,Yes
+ Tanzania[i],"59,441,988",TZ,TZA,Yes
+ Thailand,"66,631,980",TH,THA,Yes
+ Togo,"7,886,000",TG,TGO,Yes
+ Tokelau (NZ),"1,501",TK,TKL,No
+ Tonga,"99,532",TO,TON,Yes
+ Trinidad and Tobago,"1,366,725",TT,TTO,Yes
+ Tunisia,"11,708,370",TN,TUN,Yes
+ Turkey,"83,614,362",TR,TUR,Yes
+ Turkmenistan,"6,118,000",TM,TKM,Yes
+ Turks and Caicos Islands (UK),"42,953",TC,TCA,No
+ Tuvalu,"10,679",TV,TUV,Yes
+ U.S. Virgin Islands (US),"104,000",VI,VIR,No
+ Uganda,"42,885,900",UG,UGA,Yes
+ Ukraine,"41,554,836",UA,UKR,Yes
+ United Arab Emirates,"9,503,738",AE,ARE,Yes
+ United Kingdom,"66,796,807",GB,GBR,Yes
+ United States,"331,458,869",US,USA,Yes
+ Uruguay,"3,554,915",UY,URY,Yes
+ Uzbekistan,"34,791,606",UZ,UZB,Yes
+ Vanuatu,"301,295",VU,VUT,Yes
+ Vatican City,825,VA,VAT,Yes
+ Venezuela,"28,705,000",VE,VEN,Yes
+ Vietnam,"97,580,000",VN,VNM,Yes
+ Wallis and Futuna (France),"11,369",WF,WLF,No
+ Western Sahara,"612,000",EH,ESH,No
+ World,"7,859,329,000",WD,WOR,No
+ Yemen,"30,491,000",YE,YEM,Yes
+ Zambia,"18,400,556",ZM,ZMB,Yes
+ Zimbabwe,"15,790,716",ZW,ZWE,Yes
+British Indian Ocean Territory,,IO,IOT,No
+European Union,"447,706,209",EU,EUR,No
