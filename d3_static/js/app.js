@@ -36,7 +36,7 @@ var chartGroup = svg.append("g")
 
 // Initial Params
 var chosenXAxis = "poverty";
-var chosenYAxis = "LHCPS";
+var chosenYAxis = "LHCPR";
 
 // function used for updating x-scale var upon click on axis label
 // =================================================================

@@ -107,7 +107,7 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 // =================================================================
 // Retrieve data from the CSV file and execute everything below
 // =================================================================
-d3.csv("data/part1a.csv").then(function (dataSet) {
+d3.csv("data/part1.csv").then(function (dataSet) {
 
   // parse data
   hairData.forEach(function (data) {
