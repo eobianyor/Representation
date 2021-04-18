@@ -36,7 +36,7 @@ var chartGroup = svg.append("g")
 
 // Initial Params
 var chosenXAxis = "poverty";
-var chosenYAxis = "LHCPS";
+var chosenYAxis = "obesity";
 
 // function used for updating x-scale var upon click on axis label
 // =================================================================
@@ -183,7 +183,6 @@ function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
     return circlesGroup;
 }
 
-// =================================================================
 // Retrieve data from the CSV file and execute everything below
 // =================================================================
 d3.csv("assets/data/data.csv").then(function (dataSet) {

@@ -21,7 +21,7 @@ var chartHeight = svgHeight - margin.top - margin.bottom;
 // append an SVG group that will hold our chart,
 // and shift the latter by left and top margins.
 // =================================
-var svg = representation
+var svg = d3
     .select("body")
     .append("svg")
     .attr("width", svgWidth)
@@ -34,29 +34,29 @@ var chartGroup = svg.append("g")
 
 // Import data from the donuts.csv file
 // =================================
-representation.csv("data.csv").then(function (dataSet) {
+d3.csv("data.csv").then(function (dataSet) {
 
     // Parse Data/Cast as numbers
     // ==============================
     dataSet.forEach(function (data) {
-        data.poverty = +data.Country;
-        data.obesity = +data.LHCPS;
+        data.poverty = +data.poverty;
+        data.obesity = +data.obesity;
     });
 
     // Create scale functions
     // ==============================
-    var xLinearScale = representation.scaleLinear()
-        .domain([8, representation.max(dataSet, d => d.Country)])
+    var xLinearScale = d3.scaleLinear()
+        .domain([8, d3.max(dataSet, d => d.poverty)])
         .range([0, chartWidth]);
 
-    var yLinearScale = representation.scaleLinear()
-        .domain([18, representation.max(dataSet, d => d.LHCPS)])
+    var yLinearScale = d3.scaleLinear()
+        .domain([18, d3.max(dataSet, d => d.obesity)])
         .range([chartHeight, 0]);
 
     // Create axis functions
     // ==============================
-    var bottomAxis = representation.axisBottom(xLinearScale);
-    var leftAxis = representation.axisLeft(yLinearScale);
+    var bottomAxis = d3.axisBottom(xLinearScale);
+    var leftAxis = d3.axisLeft(yLinearScale);
 
     // Append Axes to the chart
     // ==============================
@@ -73,8 +73,8 @@ representation.csv("data.csv").then(function (dataSet) {
         .data(dataSet)
         .enter()
         .append("circle")
-        .attr("cx", d => xLinearScale(d.Country))
-        .attr("cy", d => yLinearScale(d.LHCPS))
+        .attr("cx", d => xLinearScale(d.poverty))
+        .attr("cy", d => yLinearScale(d.obesity))
         .attr("r", 15)
         .style("color", "orange")
         .style("fill", "red")
@@ -87,16 +87,16 @@ representation.csv("data.csv").then(function (dataSet) {
     //     .enter()
     //     .append("text")
     //     .text(d => `${d.abbr}`)
-    //     .attr("cx", d => xLinearScale(d.Country))
-    //     .attr("cy", d => yLinearScale(d.LHCPS))
+    //     .attr("cx", d => xLinearScale(d.poverty))
+    //     .attr("cy", d => yLinearScale(d.obesity))
 
     // Initialize tool tip
     // ==============================
-    var toolTip = representation.tip()
+    var toolTip = d3.tip()
         .attr("class", "tooltip")
         .offset([0, -20])
         .html(function (d) {
-            return (`<strong>${d.state}</strong><hr> poverty (%): ${d.Country}<br>obesity (%): ${d.LHCPS}`);
+            return (`<strong>${d.state}</strong><hr> poverty (%): ${d.poverty}<br>obesity (%): ${d.obesity}`);
         });
 
     // Create tooltip in the chart
