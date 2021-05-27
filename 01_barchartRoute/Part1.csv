@@ -1,82 +1,86 @@
-Country,countryCode,Population,LHR,UHR,CPRLH,CPRUH,Group
+Country,countryCode,Population,LHR,UHR,LHCPR,UHCPR,Group
  Australia,AUS,25776464.0,151.0,76.0,170705.0,339164.0,OECD Countries
  Austria,AUT,8933346.0,183.0,61.0,48816.0,146448.0,OECD Countries
  Belgium,BEL,11556297.0,150.0,60.0,77042.0,192605.0,OECD Countries
  Canada,CAN,38411882.0,338.0,105.0,113645.0,365827.0,OECD Countries
  Chile,CHL,19678363.0,155.0,43.0,126957.0,457636.0,OECD Countries
  Czech Republic,CZE,10701777.0,200.0,81.0,53509.0,132121.0,OECD Countries
- Denmark,DNK,5840045.0,179.0,0.0,32626.0,0.0,OECD Countries
- Estonia,EST,1329460.0,101.0,0.0,13163.0,0.0,OECD Countries
- Finland,FIN,5508198.0,200.0,0.0,27541.0,0.0,OECD Countries
+ Denmark,DNK,5840045.0,179.0,0.0,32626.0,,OECD Countries
+ Estonia,EST,1329460.0,101.0,0.0,13163.0,,OECD Countries
+ Finland,FIN,5508198.0,200.0,0.0,27541.0,,OECD Countries
  France,FRA,67399000.0,577.0,348.0,116809.0,193675.0,OECD Countries
  Germany,DEU,83190556.0,709.0,69.0,117335.0,1205660.0,OECD Countries
- Greece,GRC,10718565.0,300.0,0.0,35729.0,0.0,OECD Countries
- Hungary,HUN,9730000.0,199.0,0.0,48894.0,0.0,OECD Countries
- Iceland,ISL,368590.0,63.0,0.0,5851.0,0.0,OECD Countries
+ Greece,GRC,10718565.0,300.0,0.0,35729.0,,OECD Countries
+ Hungary,HUN,9730000.0,199.0,0.0,48894.0,,OECD Countries
+ Iceland,ISL,368590.0,63.0,0.0,5851.0,,OECD Countries
  Ireland,IRL,4977400.0,160.0,60.0,31109.0,82957.0,OECD Countries
- Israel,ISR,9334340.0,120.0,0.0,77786.0,0.0,OECD Countries
+ Israel,ISR,9334340.0,120.0,0.0,77786.0,,OECD Countries
  Italy,ITA,59257566.0,630.0,321.0,94060.0,184603.0,OECD Countries
  Japan,JPN,125480000.0,465.0,245.0,269849.0,512163.0,OECD Countries
- Latvia,LVA,1891300.0,100.0,0.0,18913.0,0.0,OECD Countries
- Lithuania,LTU,2790044.0,141.0,0.0,19788.0,0.0,OECD Countries
- Luxembourg,LUX,634730.0,60.0,0.0,10579.0,0.0,OECD Countries
+ Latvia,LVA,1891300.0,100.0,0.0,18913.0,,OECD Countries
+ Lithuania,LTU,2790044.0,141.0,0.0,19788.0,,OECD Countries
+ Luxembourg,LUX,634730.0,60.0,0.0,10579.0,,OECD Countries
  Mexico,MEX,126014024.0,500.0,128.0,252028.0,984485.0,OECD Countries
  Netherlands,NLD,17580531.0,150.0,75.0,117204.0,234407.0,OECD Countries
- New Zealand,NZL,5123792.0,120.0,0.0,42698.0,0.0,OECD Countries
- Norway,NOR,5391369.0,196.0,0.0,27507.0,0.0,OECD Countries
+ New Zealand,NZL,5123792.0,120.0,0.0,42698.0,,OECD Countries
+ Norway,NOR,5391369.0,196.0,0.0,27507.0,,OECD Countries
  Poland,POL,38244000.0,460.0,100.0,83139.0,382440.0,OECD Countries
- Portugal,PRT,10295909.0,230.0,0.0,44765.0,0.0,OECD Countries
- Slovakia,SVK,5459781.0,150.0,0.0,36399.0,0.0,OECD Countries
- Slovenia,SVN,2111461.0,90.0,0.0,23461.0,0.0,OECD Countries
- South Korea,KOR,51705905.0,300.0,0.0,172353.0,0.0,OECD Countries
+ Portugal,PRT,10295909.0,230.0,0.0,44765.0,,OECD Countries
+ Slovakia,SVK,5459781.0,150.0,0.0,36399.0,,OECD Countries
+ Slovenia,SVN,2111461.0,90.0,0.0,23461.0,,OECD Countries
+ South Korea,KOR,51705905.0,300.0,0.0,172353.0,,OECD Countries
  Spain,ESP,47351567.0,350.0,265.0,135290.0,178685.0,OECD Countries
- Sweden,SWE,10380491.0,349.0,0.0,29744.0,0.0,OECD Countries
+ Sweden,SWE,10380491.0,349.0,0.0,29744.0,,OECD Countries
  Switzerland,CHE,8655100.0,200.0,46.0,43276.0,188154.0,OECD Countries
- Turkey,TUR,83614362.0,600.0,0.0,139357.0,0.0,OECD Countries
+ Turkey,TUR,83614362.0,600.0,0.0,139357.0,,OECD Countries
  United Kingdom,GBR,66796807.0,650.0,796.0,102764.0,83916.0,OECD Countries
  United States,USA,331458869.0,435.0,100.0,761974.0,3314589.0,OECD Countries
+European Union,EUR,447706209.0,705.0,0.0,635044.0,,OECD Countries
  Algeria,DZA,44700000.0,462.0,144.0,96753.0,310417.0,Random Countries
  Antigua and Barbuda,ATG,99337.0,17.0,17.0,5843.0,5843.0,Random Countries
  Argentina,ARG,45808747.0,257.0,72.0,178244.0,636233.0,Random Countries
  Bahamas,BHS,393450.0,39.0,16.0,10088.0,24591.0,Random Countries
  Bahrain,BHR,1501635.0,40.0,40.0,37541.0,37541.0,Random Countries
- Bangladesh,BGD,170453540.0,350.0,0.0,487010.0,0.0,Random Countries
+ Bangladesh,BGD,170453540.0,350.0,0.0,487010.0,,Random Countries
  Brazil,BRA,212969523.0,513.0,81.0,415145.0,2629253.0,Random Countries
- Brunei,BRN,459500.0,33.0,0.0,13924.0,0.0,Random Countries
- Cuba,CUB,11193470.0,605.0,0.0,18502.0,0.0,Random Countries
+ Brunei,BRN,459500.0,33.0,0.0,13924.0,,Random Countries
+ China,CHN,1407402560.0,2980.0,0.0,472283.0,,Random Countries
+ Cuba,CUB,11193470.0,605.0,0.0,18502.0,,Random Countries
  DR Congo,COD,92378000.0,500.0,109.0,184756.0,847505.0,Random Countries
  Egypt,EGY,101714695.0,596.0,300.0,170662.0,339049.0,Random Countries
  France,FRA,67399000.0,577.0,348.0,116809.0,193675.0,Random Countries
  Germany,DEU,83190556.0,709.0,69.0,117335.0,1205660.0,Random Countries
  Grenada,GRD,113000.0,15.0,13.0,7533.0,8692.0,Random Countries
- Hong Kong,HKG,7474200.0,70.0,0.0,106774.0,0.0,Random Countries
+ Hong Kong,HKG,7474200.0,70.0,0.0,106774.0,,Random Countries
+ India[c],IND,1375432838.0,543.0,245.0,2533025.0,5614012.0,Random Countries
  Indonesia,IDN,271350000.0,575.0,136.0,471913.0,1995221.0,Random Countries
- Iran,IRN,84340498.0,290.0,0.0,290829.0,0.0,Random Countries
+ Iran,IRN,84340498.0,290.0,0.0,290829.0,,Random Countries
  Italy,ITA,59257566.0,630.0,321.0,94060.0,184603.0,Random Countries
  Japan,JPN,125480000.0,465.0,245.0,269849.0,512163.0,Random Countries
  Kenya,KEN,47564296.0,349.0,67.0,136287.0,709915.0,Random Countries
- Kiribati,KIR,120740.0,45.0,0.0,2683.0,0.0,Random Countries
- Latvia,LVA,1891300.0,100.0,0.0,18913.0,0.0,Random Countries
+ Kiribati,KIR,120740.0,45.0,0.0,2683.0,,Random Countries
+ Latvia,LVA,1891300.0,100.0,0.0,18913.0,,Random Countries
  Lesotho,LSO,2007201.0,120.0,33.0,16727.0,60824.0,Random Countries
- Liechtenstein,LIE,39062.0,25.0,0.0,1562.0,0.0,Random Countries
- Macau,MAC,683100.0,33.0,0.0,20700.0,0.0,Random Countries
- Malta,MLT,514564.0,67.0,0.0,7680.0,0.0,Random Countries
+ Liechtenstein,LIE,39062.0,25.0,0.0,1562.0,,Random Countries
+ Macau,MAC,683100.0,33.0,0.0,20700.0,,Random Countries
+ Malta,MLT,514564.0,67.0,0.0,7680.0,,Random Countries
  Mexico,MEX,126014024.0,500.0,128.0,252028.0,984485.0,Random Countries
- Monaco,MCO,38100.0,24.0,0.0,1588.0,0.0,Random Countries
+ Monaco,MCO,38100.0,24.0,0.0,1588.0,,Random Countries
  Nigeria,NGA,211401000.0,360.0,109.0,587225.0,1939459.0,Random Countries
  Pakistan,PAK,225200000.0,342.0,100.0,658480.0,2252000.0,Random Countries
  Philippines,PHL,110058083.0,304.0,24.0,362033.0,4585753.0,Random Countries
  Russia,RUS,146238185.0,450.0,170.0,324974.0,860225.0,Random Countries
- Saint Kitts and Nevis,KNA,54000.0,15.0,0.0,3600.0,0.0,Random Countries
- San Marino,SMR,33600.0,60.0,0.0,560.0,0.0,Random Countries
- Saudi Arabia,SAU,34218169.0,150.0,0.0,228121.0,0.0,Random Countries
- Seychelles,SYC,98963.0,35.0,0.0,2828.0,0.0,Random Countries
- Singapore,SGP,5685807.0,104.0,0.0,54671.0,0.0,Random Countries
+ Saint Kitts and Nevis,KNA,54000.0,15.0,0.0,3600.0,,Random Countries
+ San Marino,SMR,33600.0,60.0,0.0,560.0,,Random Countries
+ Saudi Arabia,SAU,34218169.0,150.0,0.0,228121.0,,Random Countries
+ Seychelles,SYC,98963.0,35.0,0.0,2828.0,,Random Countries
+ Singapore,SGP,5685807.0,104.0,0.0,54671.0,,Random Countries
  Tanzania,TZA,59441988.0,400.0,90.0,148605.0,660467.0,Random Countries
  Trinidad and Tobago,TTO,1366725.0,500.0,250.0,2733.0,5467.0,Random Countries
  Tunisia,TUN,11708370.0,41.0,31.0,285570.0,377689.0,Random Countries
- Turkey,TUR,83614362.0,217.0,0.0,385320.0,0.0,Random Countries
- Ukraine,UKR,41554836.0,600.0,0.0,69258.0,0.0,Random Countries
- United Kingdom,GBR,66796807.0,450.0,0.0,148437.0,0.0,Random Countries
+ Turkey,TUR,83614362.0,217.0,0.0,385320.0,,Random Countries
+ Ukraine,UKR,41554836.0,600.0,0.0,69258.0,,Random Countries
+ United Kingdom,GBR,66796807.0,450.0,0.0,148437.0,,Random Countries
  United States,USA,331458869.0,435.0,100.0,761974.0,3314589.0,Random Countries
- Vietnam,VNM,97580000.0,483.0,0.0,202029.0,0.0,Random Countries
+ Vietnam,VNM,97580000.0,483.0,0.0,202029.0,,Random Countries
+European Union,EUR,447706209.0,705.0,0.0,635044.0,,Random Countries
