@@ -1,0 +1,57 @@
+body {
+    /* font-family: Roboto, Helvetica, Arial, sans-serif; */
+    background-color: #4e657a;
+}
+nav {
+    background-color: #567086;
+}
+.dropdown-menu{
+    background-color: #567086;
+
+}
+.dropdown-item{
+    color:#fff;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 5;
+}
+
+.bar {
+  fill: red;
+}
+
+.bar:hover {
+  fill: blue;
+}
+
+.tooltip {
+  /* Note: display: none is what makes the tooltips not display by default */
+  display: none;
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  padding: 5px;
+  font: 14px sans-serif;
+  text-align: center;
+  color: white;
+  background: blue;
+  border: 0;
+  border-radius: 5px;
+}
+
+/* .tooltip {
+  /* Note: display: none is what makes the tooltips not display by default */
+  display: none;
+  position: absolute;
+  width: 80px;
+  height: 30px;
+  padding: 2px;
+  font: 12px sans-serif;
+  text-align: center;
+  background: orange;
+  border: 0;
+  border-radius: 10px;
+} */

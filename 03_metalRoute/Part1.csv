@@ -1,4 +1,4 @@
-Country,countryCode,Population,LHR,UHR,CPRLH,CPRUH,Group
+Country,countryCode,Population,LHR,UHR,CPRLH,CPRUH,Groups
  Australia,AUS,25776464.0,151.0,76.0,170705.0,339164.0,OECD Countries
  Austria,AUT,8933346.0,183.0,61.0,48816.0,146448.0,OECD Countries
  Belgium,BEL,11556297.0,150.0,60.0,77042.0,192605.0,OECD Countries

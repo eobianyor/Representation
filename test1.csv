@@ -1,0 +1,239 @@
+Country,Population,countrycode_2,countrycode,Independent
+ Afghanistan,32890171.0,AF,AFG,Yes
+Aland Islands (Finland),30152.0,AX,ALA,No
+ Albania,2845955.0,AL,ALB,Yes
+ Algeria,44700000.0,DZ,DZA,Yes
+ American Samoa (US),56951.0,AS,ASM,No
+ Andorra,78015.0,AD,AND,Yes
+ Angola,32097671.0,AO,AGO,Yes
+ Anguilla (UK),15000.0,AI,AIA,No
+ Antigua and Barbuda,99337.0,AG,ATG,Yes
+ Argentina,45808747.0,AR,ARG,Yes
+ Armenia,2967900.0,AM,ARM,Yes
+ Aruba (Netherlands),111904.0,AW,ABW,No
+ Australia,25776464.0,AU,AUS,Yes
+ Austria,8933346.0,AT,AUT,Yes
+ Azerbaijan,10122148.0,AZ,AZE,Yes
+ Bahamas,393450.0,BS,BHS,Yes
+ Bahrain,1501635.0,BH,BHR,Yes
+ Bangladesh,170453540.0,BD,BGD,Yes
+ Barbados,288000.0,BB,BRB,Yes
+ Belarus,9408350.0,BY,BLR,Yes
+ Belgium,11556297.0,BE,BEL,Yes
+ Belize,419199.0,BZ,BLZ,Yes
+ Benin,12506347.0,BJ,BEN,Yes
+ Bermuda (UK),64055.0,BM,BMU,No
+ Bhutan,756129.0,BT,BTN,Yes
+ Bolivia,11797257.0,BO,BOL,Yes
+ Bosnia and Herzegovina,3332593.0,BA,BIH,Yes
+ Botswana,2410338.0,BW,BWA,Yes
+ Brazil,212969523.0,BR,BRA,Yes
+ British Virgin Islands (UK),30000.0,VG,VGB,No
+ Brunei,459500.0,BN,BRN,Yes
+ Bulgaria,6951482.0,BG,BGR,Yes
+ Burkina Faso,21510181.0,BF,BFA,Yes
+ Burundi,12574571.0,BI,BDI,Yes
+ Cambodia,15552211.0,KH,KHM,Yes
+ Cameroon,24348251.0,CM,CMR,Yes
+ Canada,38411882.0,CA,CAN,Yes
+ Cape Verde,563198.0,CV,CPV,Yes
+ Cayman Islands (UK),65786.0,KY,CYM,No
+ Central African Republic,5633412.0,CF,CAF,Yes
+ Chad,16818391.0,TD,TCD,Yes
+ Chile,19678363.0,CL,CHL,Yes
+ China,1407402560.0,CN,CHN,Yes
+ Christmas Island (Australia),1966.0,CX,CXR,No
+ Cocos (Keeling) Islands (Australia),573.0,CC,CCK,No
+ Colombia,51049498.0,CO,COL,Yes
+ Comoros,758316.0,KM,COM,Yes
+ Congo,5657000.0,CG,COG,Yes
+ Cook Islands (NZ),15342.0,CK,COK,No
+ Costa Rica,5163038.0,CR,CRI,Yes
+ Croatia,4047200.0,HR,HRV,Yes
+ Cuba,11193470.0,CU,CUB,Yes
+ Curaçao (Netherlands),156223.0,CW,CUW,No
+ Cyprus,888005.0,CY,CYP,Yes
+ Czech Republic,10701777.0,CZ,CZE,Yes
+ Denmark,5840045.0,DK,DNK,Yes
+ Djibouti,976107.0,DJ,DJI,Yes
+ Dominica,72000.0,DM,DMA,Yes
+ Dominican Republic,10535535.0,DO,DOM,Yes
+ DR Congo,92378000.0,CD,COD,Yes
+ East Timor,1317780.0,TL,TLD,Yes
+ Ecuador,17706844.0,EC,ECU,Yes
+ Egypt,101714695.0,EG,EGY,Yes
+ El Salvador,6825935.0,SV,SLV,Yes
+ Equatorial Guinea,1454789.0,GQ,GNQ,Yes
+ Eritrea,3601000.0,ER,ERI,Yes
+ Estonia,1329460.0,EE,EST,Yes
+ Eswatini,1093238.0,SZ,SWZ,Yes
+ Ethiopia,117876000.0,ET,ETH,Yes
+ Falkland Islands (UK),3398.0,FK,FLK,No
+ Faroe Islands (Denmark),53022.0,FO,FRO,No
+ Fiji,898402.0,FJ,FJI,Yes
+ Finland,5508198.0,FI,FIN,Yes
+ France,67399000.0,FR,FRA,Yes
+ French Polynesia (France),279890.0,PF,PYF,No
+ Gabon,2233272.0,GA,GAB,Yes
+ Gambia,2335504.0,GM,GMB,Yes
+ Georgia,3716858.0,GE,GEO,Yes
+ Germany,83190556.0,DE,DEU,Yes
+ Ghana,30955202.0,GH,GHA,Yes
+ Gibraltar (UK),34003.0,GI,GIB,No
+ Greece,10718565.0,GR,GRC,Yes
+ Greenland (Denmark),56421.0,GL,GRL,No
+ Grenada,113000.0,GD,GRD,Yes
+ Guam (US),178306.0,GU,GUM,No
+ Guatemala,17109746.0,GT,GTM,Yes
+ Guernsey (UK),63155.0,GG,GGY,No
+ Guinea,12907395.0,GN,GIN,Yes
+ Guinea-Bissau,1646077.0,GW,GNB,Yes
+ Guyana,743699.0,GY,GUY,Yes
+ Haiti,11743017.0,HT,HTI,Yes
+ Honduras,9450711.0,HN,HND,Yes
+ Hong Kong,7474200.0,HK,HKG,No
+ Hungary,9730000.0,HU,HUN,Yes
+ Iceland,368590.0,IS,ISL,Yes
+ India[c],1375432838.0,IN,IND,Yes
+ Indonesia,271350000.0,ID,IDN,Yes
+ Iran,84340498.0,IR,IRN,Yes
+ Iraq,41190700.0,IQ,IRQ,Yes
+ Ireland,4977400.0,IE,IRL,Yes
+ Isle of Man (UK),83314.0,IM,IMN,No
+ Israel,9334340.0,IL,ISR,Yes
+ Italy,59257566.0,IT,ITA,Yes
+ Ivory Coast,27087732.0,CI,CIV,Yes
+ Jamaica,2734093.0,JM,JAM,Yes
+ Japan,125480000.0,JP,JPN,Yes
+ Jersey (UK),107800.0,JE,JEY,No
+ Jordan,10917276.0,JO,JOR,Yes
+ Kazakhstan,18902392.0,KZ,KAZ,Yes
+ Kenya,47564296.0,KE,KEN,Yes
+ Kiribati,120740.0,KI,KIR,Yes
+ Kuwait,4464521.0,KW,KWT,Yes
+ Kyrgyzstan,6645500.0,KG,KGZ,Yes
+ Laos,7337783.0,LA,LAO,Yes
+ Latvia,1891300.0,LV,LVA,Yes
+ Lebanon,6769000.0,LB,LBN,Yes
+ Lesotho,2007201.0,LS,LSO,Yes
+ Liberia,4661010.0,LR,LBR,Yes
+ Libya,6959000.0,LY,LBY,Yes
+ Liechtenstein,39062.0,LI,LIE,Yes
+ Lithuania,2790044.0,LT,LTU,Yes
+ Luxembourg,634730.0,LU,LUX,Yes
+ Macau,683100.0,MO,MAC,No
+ Madagascar,26923353.0,MG,MDG,Yes
+ Malawi,18898441.0,MW,MWI,Yes
+ Malaysia,32760900.0,MY,MYS,Yes
+ Maldives,383135.0,MV,MDV,Yes
+ Mali,20856000.0,ML,MLI,Yes
+ Malta,514564.0,MT,MLT,Yes
+ Marshall Islands,54516.0,MH,MHL,Yes
+ Mauritania,4271197.0,MR,MRT,Yes
+ Mauritius,1266030.0,MU,MUS,Yes
+ Mexico,126014024.0,MX,MEX,Yes
+ Moldova,2640438.0,MD,MDA,Yes
+ Monaco,38100.0,MC,MCO,Yes
+ Mongolia,3371234.0,MN,MNG,Yes
+ Montenegro,621873.0,ME,MNE,Yes
+ Montserrat (UK),5000.0,MS,MSR,No
+ Morocco,36213494.0,MA,MAR,Yes
+ Mozambique,30832244.0,MZ,MOZ,Yes
+ Myanmar,55294979.0,MM,MMR,Yes
+ Namibia,2550226.0,,NAM,Yes
+ Nauru,11832.0,NR,NRU,Yes
+ Nepal,30378055.0,NP,NPL,Yes
+ Netherlands,17580531.0,NL,NLD,Yes
+ New Caledonia (France),273674.0,NC,NCL,No
+ New Zealand,5123792.0,NZ,NZL,Yes
+ Nicaragua,6527691.0,NI,NIC,Yes
+ Niger,24112753.0,NE,NER,Yes
+ Nigeria,211401000.0,NG,NGA,Yes
+ Niue (NZ),1549.0,NU,NIU,No
+ Norfolk Island (Australia),1734.0,NF,NFK,No
+ North Korea,25660000.0,KP,PRK,Yes
+ North Macedonia,2076255.0,MK,MKD,Yes
+ Northern Mariana Islands (US),56801.0,MP,MNP,No
+ Norway,5391369.0,NO,NOR,Yes
+ Oman,4496419.0,OM,OMN,Yes
+ Pakistan,225200000.0,PK,PAK,Yes
+ Palau,17957.0,PW,PLW,Yes
+ Palestine,5227193.0,PS,PSE,No
+ Panama,4278500.0,PA,PAN,Yes
+ Papua New Guinea,9122994.0,PG,PNG,Yes
+ Paraguay,7353038.0,PY,PRY,Yes
+ Peru,33035304.0,PE,PER,Yes
+ Philippines,110058083.0,PH,PHL,Yes
+ Pitcairn Islands (UK),50.0,PN,PCN,No
+ Poland,38244000.0,PL,POL,Yes
+ Portugal,10295909.0,PT,PRT,Yes
+ Puerto Rico (US),3193694.0,PR,PRI,No
+ Qatar,2717360.0,QA,QAT,Yes
+ Romania,19317984.0,RO,ROU,Yes
+ Russia,146238185.0,RU,RUS,Yes
+ Rwanda,12955768.0,RW,RWA,Yes
+ Saint Barthélemy (France),10124.0,BL,BLM,No
+" Saint Helena, Ascension",5633.0,SH,SHN,No
+ Saint Kitts and Nevis,54000.0,KN,KNA,Yes
+ Saint Lucia,178696.0,LC,LCA,Yes
+ Saint Martin (France),34065.0,MF,MAF,No
+ Saint Pierre and Miquelon (France),5985.0,PM,SPM,No
+ Saint Vincent and the Grenadines,110696.0,VC,VCT,Yes
+ Samoa,199853.0,WS,WSM,Yes
+ San Marino,33600.0,SM,SMR,Yes
+ São Tomé and Príncipe,214610.0,ST,STP,Yes
+ Saudi Arabia,34218169.0,SA,SAU,Yes
+ Senegal,17223497.0,SN,SEN,Yes
+ Serbia,6926705.0,RS,SRB,Yes
+ Seychelles,98963.0,SC,SYC,Yes
+ Sierra Leone,8297882.0,SL,SLE,Yes
+ Singapore,5685807.0,SG,SGP,Yes
+ Sint Maarten (Netherlands),40614.0,SX,SXM,No
+ Slovakia,5459781.0,SK,SVK,Yes
+ Slovenia,2111461.0,SI,SVN,Yes
+ Solomon Islands,728041.0,SB,SLB,Yes
+ Somalia,16360000.0,SO,SOM,Yes
+ South Africa,59622350.0,ZA,ZAF,Yes
+ South Korea,51705905.0,KR,KOR,Yes
+ South Ossetia,53532.0,GS,SGS,No
+ South Sudan,13249924.0,SS,SSD,Yes
+ Spain,47351567.0,ES,ESP,Yes
+ Sri Lanka,21919000.0,LK,LKA,Yes
+ Sudan,43368090.0,SD,SDN,Yes
+ Suriname,590100.0,SR,SUR,Yes
+ Sweden,10380491.0,SE,SWE,Yes
+ Switzerland,8655100.0,CH,CHE,Yes
+ Syria,18276000.0,SY,SYR,Yes
+ Taiwan,23539588.0,TW,TWN,No
+ Tajikistan,9313800.0,TJ,TJK,Yes
+ Tanzania,59441988.0,TZ,TZA,Yes
+ Thailand,66631980.0,TH,THA,Yes
+ Togo,7886000.0,TG,TGO,Yes
+ Tokelau (NZ),1501.0,TK,TKL,No
+ Tonga,99532.0,TO,TON,Yes
+ Trinidad and Tobago,1366725.0,TT,TTO,Yes
+ Tunisia,11708370.0,TN,TUN,Yes
+ Turkey,83614362.0,TR,TUR,Yes
+ Turkmenistan,6118000.0,TM,TKM,Yes
+ Turks and Caicos Islands (UK),42953.0,TC,TCA,No
+ Tuvalu,10679.0,TV,TUV,Yes
+ U.S. Virgin Islands (US),104000.0,VI,VIR,No
+ Uganda,42885900.0,UG,UGA,Yes
+ Ukraine,41554836.0,UA,UKR,Yes
+ United Arab Emirates,9503738.0,AE,ARE,Yes
+ United Kingdom,66796807.0,GB,GBR,Yes
+ United States,331458869.0,US,USA,Yes
+ Uruguay,3554915.0,UY,URY,Yes
+ Uzbekistan,34791606.0,UZ,UZB,Yes
+ Vanuatu,301295.0,VU,VUT,Yes
+ Vatican City,825.0,VA,VAT,Yes
+ Venezuela,28705000.0,VE,VEN,Yes
+ Vietnam,97580000.0,VN,VNM,Yes
+ Wallis and Futuna (France),11369.0,WF,WLF,No
+ Western Sahara,612000.0,EH,ESH,No
+ World,7859329000.0,WD,WOR,No
+ Yemen,30491000.0,YE,YEM,Yes
+ Zambia,18400556.0,ZM,ZMB,Yes
+ Zimbabwe,15790716.0,ZW,ZWE,Yes
+British Indian Ocean Territory,,IO,IOT,No
+European Union,447706209.0,EU,EUR,No
