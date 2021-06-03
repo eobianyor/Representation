@@ -39,7 +39,7 @@ conn_str = (
 quoted_conn_str = urllib.parse.quote_plus(conn_str)
 engine = create_engine(f'mssql+pyodbc:///?odbc_connect={quoted_conn_str}')
 
-######################## CONNECT TO DATABASE ############################
+#################### APPEND DF TO TABLE IN DATABASE #####################
 # cnxn = engine.connect()
 # Part1_df.to_sql(name='RepresentationTable1', con=cnxn,
 #                 if_exists='append', index=False)

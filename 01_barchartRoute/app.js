@@ -8,8 +8,8 @@ var houseCategory
 // // // // ===================================================================================== // // // //
 
 // Select the button
-var button = d3.select("#plot-btn");
-// console.log(button);
+var button = d3.select("#chart-btn");
+console.log(button);
 // addEvent(selectedContsainter, "change", function )
 button.on("click", function () {
 
@@ -27,10 +27,11 @@ button.on("click", function () {
         houseCategory = "Lower House";
     }
     console.log(countryCategory, houseCategory);
+    console.log(inputElement1, inputElement2);
     console.log(`finished input values`);
 
     // // // // ========= CALL FUNCTIONS TO BUILD THE PLOTS AND TABLES ======== // // // //
-    barPlot(countryCategory, houseCategory);
+    // barPlot(countryCategory, houseCategory);
 })
 // // // // ======================================== END ======================================== // // // //
 
@@ -309,38 +310,38 @@ function barPlot(inputCountryGrp, inputHouse) {
 
         return barsGroup;
 
-    // // // ================ TOOLTIP V6 END ================
-    // // // ================ TOOLTIP V7 ================
+        // // // ================ TOOLTIP V6 END ================
+        // // // ================ TOOLTIP V7 ================
 
-    // var toolTip = d3.tip()
-    //     .attr("class", "tooltip")
-    //     .offset([80, -80])
-    //     .html(function (d) {
-    //         return (`<strong> ${d.country} <strong> <hr> Pop: ${d.population} <br> Reps: ${d.reps}`);
-    //     });
+        // var toolTip = d3.tip()
+        //     .attr("class", "tooltip")
+        //     .offset([80, -80])
+        //     .html(function (d) {
+        //         return (`<strong> ${d.country} <strong> <hr> Pop: ${d.population} <br> Reps: ${d.reps}`);
+        //     });
 
-    // barsGroup.call(toolTip);
+        // barsGroup.call(toolTip);
 
-    // // mouse over for tool tip and identifying the selected circle
-    // // =================================================================
-    // barsGroup.on("mouseover", function (d) {
-    //     toolTip.show(d, this)
-    //     d3.select(this).style("stroke", "black").style("stroke-width", 3).attr("fill", "#66120C");
-    // })
-    // // onmouseout event
-    // barsGroup.on("mouseout", function (d, index) {
-    //     toolTip.hide(d)
-    //     d3.select(this).style("stroke", "#FF756B").style("stroke-width", 1).attr("fill", "#E6001C");
-    // });
+        // // mouse over for tool tip and identifying the selected circle
+        // // =================================================================
+        // barsGroup.on("mouseover", function (d) {
+        //     toolTip.show(d, this)
+        //     d3.select(this).style("stroke", "black").style("stroke-width", 3).attr("fill", "#66120C");
+        // })
+        // // onmouseout event
+        // barsGroup.on("mouseout", function (d, index) {
+        //     toolTip.hide(d)
+        //     d3.select(this).style("stroke", "#FF756B").style("stroke-width", 1).attr("fill", "#E6001C");
+        // });
 
-    // return barsGroup;
+        // return barsGroup;
 
-    // // // ================ TOOLTIP V7 END ================
+        // // // ================ TOOLTIP V7 END ================
 
-// })
-    .catch (function (error) {
-            console.log(error);
-        });
+        // })
+        // .catch (function (error) {
+        //         console.log(error);
+        //     });
 
-})
+    })
 }

@@ -47,14 +47,20 @@ function plotGraphsLoop(selectedID) {
         // Run forEach to get the neccessary arrays needed for plots
         selectedIDLocal = selectedID
         nos = 0
-        countryGroup = repData.Groups;
-        houseGroup = repData.samples;
+        countryGroup = repData;
+        houseGroup = repData;
         samplesArray.forEach(entry => {
-            if (countryCategory == countryGroup[nos].id) {
-                countries = samplesArray[nos].sample_values;
-                sampleValuesAll_Twice = sampleValuesAll * 2
-                barValue = samplesArray[nos].otu_ids;
-                otu_labelsAll = samplesArray[nos].otu_labels;
+            if (countryCategory == countryGroup[n]['Groups']) {
+                newXItem = countryGroup[n]['countryCode']
+                xAxesCountriesList = xAxesCountriesList.push('newXItem');
+            };
+            if (houseCategory == 'Upper House') {
+                newYItem = countryGroup[n]['CPRUH']
+                yAxesRepsList = yAxesRepsList.push('newYItem');
+            }
+            else {
+                newYItem = countryGroup[n]['CPRLH']
+                yAxesRepsList = yAxesRepsList.push('newYItem')
             };
             nos = nos + 1;
         });
